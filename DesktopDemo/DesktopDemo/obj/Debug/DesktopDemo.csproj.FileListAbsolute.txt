@@ -1,0 +1,15 @@
+c:\users\nershov\documents\visual studio 2013\Projects\DesktopDemo\DesktopDemo\bin\Debug\DesktopDemo.exe.config
+c:\users\nershov\documents\visual studio 2013\Projects\DesktopDemo\DesktopDemo\bin\Debug\DesktopDemo.exe
+c:\users\nershov\documents\visual studio 2013\Projects\DesktopDemo\DesktopDemo\bin\Debug\DesktopDemo.pdb
+c:\users\nershov\documents\visual studio 2013\Projects\DesktopDemo\DesktopDemo\obj\Debug\DesktopDemo.csprojResolveAssemblyReference.cache
+c:\users\nershov\documents\visual studio 2013\Projects\DesktopDemo\DesktopDemo\obj\Debug\BrowserWindow.baml
+c:\users\nershov\documents\visual studio 2013\Projects\DesktopDemo\DesktopDemo\obj\Debug\MainWindow.baml
+c:\users\nershov\documents\visual studio 2013\Projects\DesktopDemo\DesktopDemo\obj\Debug\BrowserWindow.g.cs
+c:\users\nershov\documents\visual studio 2013\Projects\DesktopDemo\DesktopDemo\obj\Debug\MainWindow.g.cs
+c:\users\nershov\documents\visual studio 2013\Projects\DesktopDemo\DesktopDemo\obj\Debug\App.g.cs
+c:\users\nershov\documents\visual studio 2013\Projects\DesktopDemo\DesktopDemo\obj\Debug\DesktopDemo_MarkupCompile.cache
+c:\users\nershov\documents\visual studio 2013\Projects\DesktopDemo\DesktopDemo\obj\Debug\DesktopDemo.g.resources
+c:\users\nershov\documents\visual studio 2013\Projects\DesktopDemo\DesktopDemo\obj\Debug\DesktopDemo.Properties.Resources.resources
+c:\users\nershov\documents\visual studio 2013\Projects\DesktopDemo\DesktopDemo\obj\Debug\DesktopDemo.csproj.GenerateResource.Cache
+c:\users\nershov\documents\visual studio 2013\Projects\DesktopDemo\DesktopDemo\obj\Debug\DesktopDemo.exe
+c:\users\nershov\documents\visual studio 2013\Projects\DesktopDemo\DesktopDemo\obj\Debug\DesktopDemo.pdb
