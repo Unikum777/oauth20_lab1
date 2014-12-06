@@ -19,7 +19,7 @@ namespace DesktopDemo
 	/// </summary>
 	public partial class BrowserWindow : Window
 	{
-		static string scope = "wl.basic";
+        static string scope = "wl.basic wl.skydrive";
 		static string client_id = "0000000048135423";
 		static Uri signInUrl = new Uri(String.Format(@"https://login.live.com/oauth20_authorize.srf?client_id={0}&redirect_uri=https://login.live.com/oauth20_desktop.srf&response_type=code&scope={1}", client_id, scope));
 		MainWindow mainWindow = new MainWindow();

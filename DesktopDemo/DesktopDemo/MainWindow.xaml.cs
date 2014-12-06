@@ -70,7 +70,7 @@ namespace DesktopDemo
 		{
 			if (App.Current.Properties.Contains("access_token"))
 			{
-				makeApiRequest(apiUrl + "me?access_token=" + App.Current.Properties["access_token"]);
+                makeApiRequest(apiUrl + "me/skydrive/files?access_token=" + App.Current.Properties["access_token"]);
 			}
 		}
 
@@ -88,7 +88,11 @@ namespace DesktopDemo
 		private void changeView(string result)
 		{
 			btnSignIn.Visibility = Visibility.Collapsed;
-			txtUserInfo.Text = result;
+            
+
+            
+            dataBrowser.NavigateToString(result);
+			//txtUserInfo.Text = result;
 			string imgUrl = apiUrl + "me/picture?access_token=" + App.Current.Properties["access_token"];
 			imgUser.Source = new BitmapImage(new Uri(imgUrl, UriKind.RelativeOrAbsolute));
 			txtToken.Text += "access_token = " + App.Current.Properties["access_token"] + "\r\n\r\n";
@@ -106,7 +110,7 @@ namespace DesktopDemo
 			btnSignIn.Visibility = Visibility.Visible;
 			txtToken.Text = "";
 			imgUser.Source = null;
-			txtUserInfo.Text = "";
+			//txtUserInfo.Text = "";
 		}
 		void browser_Closed(object sender, EventArgs e)
 		{

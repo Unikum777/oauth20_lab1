@@ -13,3 +13,18 @@ c:\users\nershov\documents\visual studio 2013\Projects\DesktopDemo\DesktopDemo\o
 c:\users\nershov\documents\visual studio 2013\Projects\DesktopDemo\DesktopDemo\obj\Debug\DesktopDemo.csproj.GenerateResource.Cache
 c:\users\nershov\documents\visual studio 2013\Projects\DesktopDemo\DesktopDemo\obj\Debug\DesktopDemo.exe
 c:\users\nershov\documents\visual studio 2013\Projects\DesktopDemo\DesktopDemo\obj\Debug\DesktopDemo.pdb
+C:\Users\Никита\Source\Repos\oauth20_lab14\DesktopDemo\DesktopDemo\bin\Debug\DesktopDemo.exe.config
+C:\Users\Никита\Source\Repos\oauth20_lab14\DesktopDemo\DesktopDemo\obj\Debug\DesktopDemo.exe
+C:\Users\Никита\Source\Repos\oauth20_lab14\DesktopDemo\DesktopDemo\obj\Debug\DesktopDemo.pdb
+C:\Users\Никита\Source\Repos\oauth20_lab14\DesktopDemo\DesktopDemo\bin\Debug\DesktopDemo.exe
+C:\Users\Никита\Source\Repos\oauth20_lab14\DesktopDemo\DesktopDemo\bin\Debug\DesktopDemo.pdb
+C:\Users\Никита\Source\Repos\oauth20_lab14\DesktopDemo\DesktopDemo\obj\Debug\DesktopDemo.csprojResolveAssemblyReference.cache
+C:\Users\Никита\Source\Repos\oauth20_lab14\DesktopDemo\DesktopDemo\obj\Debug\BrowserWindow.baml
+C:\Users\Никита\Source\Repos\oauth20_lab14\DesktopDemo\DesktopDemo\obj\Debug\MainWindow.baml
+C:\Users\Никита\Source\Repos\oauth20_lab14\DesktopDemo\DesktopDemo\obj\Debug\BrowserWindow.g.cs
+C:\Users\Никита\Source\Repos\oauth20_lab14\DesktopDemo\DesktopDemo\obj\Debug\MainWindow.g.cs
+C:\Users\Никита\Source\Repos\oauth20_lab14\DesktopDemo\DesktopDemo\obj\Debug\App.g.cs
+C:\Users\Никита\Source\Repos\oauth20_lab14\DesktopDemo\DesktopDemo\obj\Debug\DesktopDemo_MarkupCompile.cache
+C:\Users\Никита\Source\Repos\oauth20_lab14\DesktopDemo\DesktopDemo\obj\Debug\DesktopDemo.g.resources
+C:\Users\Никита\Source\Repos\oauth20_lab14\DesktopDemo\DesktopDemo\obj\Debug\DesktopDemo.Properties.Resources.resources
+C:\Users\Никита\Source\Repos\oauth20_lab14\DesktopDemo\DesktopDemo\obj\Debug\DesktopDemo.csproj.GenerateResource.Cache
